@@ -216,5 +216,18 @@ body {
 
 .button-four {
   border: 2px solid #f9faf8;
-  /* margin: 10px 80px; */
+}
+
+/* Footer */
+
+.footer {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.copyright {
+  color: #a9aaad;
+  padding: 20px;
 }
